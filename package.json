@@ -1,0 +1,17 @@
+{
+  "name": "montgomery-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LeafCollect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack": "zip -r bundle.zip *"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.20",
+    "request": "^2.83.0"
+  }
+}
